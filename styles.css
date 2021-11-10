@@ -27,9 +27,11 @@
     color: blue;
     margin: 50px 0px;
 }
+
 #clear{
     margin-bottom: 10px;
 }
+
 .grid_container{
     display:grid;
     grid-template-columns: repeat(4, 1fr);
